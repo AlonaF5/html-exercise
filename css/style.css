@@ -1,0 +1,14 @@
+@import url(header-style.css);
+body {
+    background-color: rgb(182, 175, 175);
+}
+h2 {
+    background-color: rgb(85, 84, 84);
+}
+div {
+    width: 800px;
+    align-content: center;
+}
+div p span {
+    color: red;
+}
